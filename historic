@@ -1,0 +1,642 @@
+C:\python_project\AI_binance_screen\venv\Scripts\python.exe C:\python_project\AI_binance_screen_server\main_enhanced.py 
+2025-05-25 11:06:21,799 - __main__ - INFO - Allowed Telegram users: [5829074137]
+2025-05-25 11:06:23,673 - websocket_client - INFO - Database initialized for market data
+2025-05-25 11:06:30,713 - websocket_client - INFO - Excluded IOTAUSDT due to price below 0.5 USDT
+2025-05-25 11:06:31,216 - websocket_client - INFO - Excluded XLMUSDT due to price below 0.5 USDT
+2025-05-25 11:06:31,716 - websocket_client - INFO - Excluded ONTUSDT due to price below 0.5 USDT
+2025-05-25 11:06:32,228 - websocket_client - INFO - Excluded TRXUSDT due to price below 0.5 USDT
+2025-05-25 11:09:46,846 - websocket_client - INFO - Excluded AWEUSDT due to price below 0.5 USDT
+2025-05-25 11:09:47,348 - websocket_client - INFO - Excluded HAEDALUSDT due to price below 0.5 USDT
+2025-05-25 11:09:47,867 - websocket_client - INFO - Fetched 156 active USDT trading pairs
+2025-05-25 11:09:48,045 - websocket_client - INFO - Loading historical data for BTCUSDT at 1h timeframe
+2025-05-25 11:09:48,046 - websocket_client - INFO - Loading historical data for ETHUSDT at 1h timeframe
+2025-05-25 11:09:48,049 - websocket_client - INFO - Loading historical data for BNBUSDT at 1h timeframe
+2025-05-25 11:09:48,051 - websocket_client - INFO - Loading historical data for NEOUSDT at 1h timeframe
+2025-05-25 11:09:48,054 - websocket_client - INFO - Loading historical data for LTCUSDT at 1h timeframe
+2025-05-25 11:09:48,570 - websocket_client - INFO - Loaded 100 historical candles for LTCUSDT
+2025-05-25 11:09:48,572 - websocket_client - INFO - Loaded 100 historical candles for NEOUSDT
+2025-05-25 11:09:48,579 - websocket_client - INFO - Loaded 100 historical candles for ETHUSDT
+2025-05-25 11:09:48,583 - websocket_client - INFO - Loaded 100 historical candles for BNBUSDT
+2025-05-25 11:09:48,590 - websocket_client - INFO - Loaded 100 historical candles for BTCUSDT
+2025-05-25 11:09:49,045 - websocket_client - INFO - Loaded initial historical data for BNBUSDT
+2025-05-25 11:09:49,046 - websocket_client - INFO - Loading historical data for QTUMUSDT at 1h timeframe
+2025-05-25 11:09:49,158 - websocket_client - INFO - Loaded initial historical data for NEOUSDT
+2025-05-25 11:09:49,159 - websocket_client - INFO - Loading historical data for ADAUSDT at 1h timeframe
+2025-05-25 11:09:49,368 - websocket_client - INFO - Loaded initial historical data for BTCUSDT
+2025-05-25 11:09:49,368 - websocket_client - INFO - Loading historical data for XRPUSDT at 1h timeframe
+2025-05-25 11:09:49,491 - websocket_client - INFO - Loaded initial historical data for LTCUSDT
+2025-05-25 11:09:49,491 - websocket_client - INFO - Loading historical data for EOSUSDT at 1h timeframe
+2025-05-25 11:09:49,561 - websocket_client - INFO - Loaded 100 historical candles for QTUMUSDT
+2025-05-25 11:09:49,651 - websocket_client - INFO - Loaded 100 historical candles for ADAUSDT
+2025-05-25 11:09:49,734 - websocket_client - INFO - Loaded initial historical data for QTUMUSDT
+2025-05-25 11:09:49,734 - websocket_client - INFO - Loading historical data for TUSDUSDT at 1h timeframe
+2025-05-25 11:09:49,886 - websocket_client - INFO - Loaded 100 historical candles for XRPUSDT
+2025-05-25 11:09:49,928 - websocket_client - INFO - Loaded initial historical data for ADAUSDT
+2025-05-25 11:09:49,990 - websocket_client - INFO - Loaded 100 historical candles for EOSUSDT
+2025-05-25 11:09:50,102 - websocket_client - INFO - Loaded initial historical data for XRPUSDT
+2025-05-25 11:09:50,241 - websocket_client - INFO - Loaded 100 historical candles for TUSDUSDT
+2025-05-25 11:09:50,436 - websocket_client - INFO - Loaded initial historical data for ETHUSDT
+2025-05-25 11:09:50,502 - websocket_client - INFO - Loaded initial historical data for EOSUSDT
+2025-05-25 11:09:50,757 - websocket_client - INFO - Loaded initial historical data for TUSDUSDT
+2025-05-25 11:09:51,758 - websocket_client - INFO - Loading historical data for USDCUSDT at 1h timeframe
+2025-05-25 11:09:51,759 - websocket_client - INFO - Loading historical data for ETCUSDT at 1h timeframe
+2025-05-25 11:09:51,759 - websocket_client - INFO - Loading historical data for LINKUSDT at 1h timeframe
+2025-05-25 11:09:51,759 - websocket_client - INFO - Loading historical data for FETUSDT at 1h timeframe
+2025-05-25 11:09:51,759 - websocket_client - INFO - Loading historical data for ZECUSDT at 1h timeframe
+2025-05-25 11:09:52,283 - websocket_client - INFO - Loaded 100 historical candles for ETCUSDT
+2025-05-25 11:09:52,286 - websocket_client - INFO - Loaded 100 historical candles for ZECUSDT
+2025-05-25 11:09:52,290 - websocket_client - INFO - Loaded 100 historical candles for LINKUSDT
+2025-05-25 11:09:52,294 - websocket_client - INFO - Loaded 100 historical candles for USDCUSDT
+2025-05-25 11:09:52,299 - websocket_client - INFO - Loaded 100 historical candles for FETUSDT
+2025-05-25 11:09:52,488 - websocket_client - INFO - Loaded initial historical data for ETCUSDT
+2025-05-25 11:09:52,489 - websocket_client - INFO - Loading historical data for DASHUSDT at 1h timeframe
+2025-05-25 11:09:52,655 - websocket_client - INFO - Loaded initial historical data for FETUSDT
+2025-05-25 11:09:52,655 - websocket_client - INFO - Loading historical data for THETAUSDT at 1h timeframe
+2025-05-25 11:09:52,917 - websocket_client - INFO - Loaded initial historical data for LINKUSDT
+2025-05-25 11:09:52,917 - websocket_client - INFO - Loading historical data for ATOMUSDT at 1h timeframe
+2025-05-25 11:09:52,999 - websocket_client - INFO - Loaded 100 historical candles for DASHUSDT
+2025-05-25 11:09:53,149 - websocket_client - INFO - Loaded 100 historical candles for THETAUSDT
+2025-05-25 11:09:53,336 - websocket_client - INFO - Loaded initial historical data for ZECUSDT
+2025-05-25 11:09:53,336 - websocket_client - INFO - Loading historical data for MTLUSDT at 1h timeframe
+2025-05-25 11:09:53,414 - websocket_client - INFO - Loaded 100 historical candles for ATOMUSDT
+2025-05-25 11:09:53,416 - websocket_client - INFO - Loaded initial historical data for DASHUSDT
+2025-05-25 11:09:53,416 - websocket_client - INFO - Loading historical data for BANDUSDT at 1h timeframe
+2025-05-25 11:09:53,640 - websocket_client - INFO - Loaded initial historical data for THETAUSDT
+2025-05-25 11:09:53,817 - websocket_client - INFO - Loaded initial historical data for ATOMUSDT
+2025-05-25 11:09:53,852 - websocket_client - INFO - Loaded 100 historical candles for MTLUSDT
+2025-05-25 11:09:53,908 - websocket_client - INFO - Loaded 100 historical candles for BANDUSDT
+2025-05-25 11:09:54,037 - websocket_client - INFO - Loaded initial historical data for MTLUSDT
+2025-05-25 11:09:54,230 - websocket_client - INFO - Loaded initial historical data for BANDUSDT
+2025-05-25 11:09:54,443 - websocket_client - INFO - Loaded initial historical data for USDCUSDT
+2025-05-25 11:09:55,445 - websocket_client - INFO - Loading historical data for STXUSDT at 1h timeframe
+2025-05-25 11:09:55,445 - websocket_client - INFO - Loading historical data for XTZUSDT at 1h timeframe
+2025-05-25 11:09:55,445 - websocket_client - INFO - Loading historical data for RLCUSDT at 1h timeframe
+2025-05-25 11:09:55,445 - websocket_client - INFO - Loading historical data for BCHUSDT at 1h timeframe
+2025-05-25 11:09:55,446 - websocket_client - INFO - Loading historical data for FTTUSDT at 1h timeframe
+2025-05-25 11:09:55,973 - websocket_client - INFO - Loaded 100 historical candles for STXUSDT
+2025-05-25 11:09:55,976 - websocket_client - INFO - Loaded 100 historical candles for BCHUSDT
+2025-05-25 11:09:55,979 - websocket_client - INFO - Loaded 100 historical candles for RLCUSDT
+2025-05-25 11:09:55,982 - websocket_client - INFO - Loaded 100 historical candles for FTTUSDT
+2025-05-25 11:09:55,995 - websocket_client - INFO - Loaded 100 historical candles for XTZUSDT
+2025-05-25 11:09:56,210 - websocket_client - INFO - Loaded initial historical data for STXUSDT
+2025-05-25 11:09:56,211 - websocket_client - INFO - Loading historical data for EURUSDT at 1h timeframe
+2025-05-25 11:09:56,620 - websocket_client - INFO - Loaded initial historical data for XTZUSDT
+2025-05-25 11:09:56,620 - websocket_client - INFO - Loading historical data for BNTUSDT at 1h timeframe
+2025-05-25 11:09:56,735 - websocket_client - INFO - Loaded 100 historical candles for EURUSDT
+2025-05-25 11:09:57,140 - websocket_client - INFO - Loaded 100 historical candles for BNTUSDT
+2025-05-25 11:09:57,297 - websocket_client - INFO - Loaded initial historical data for FTTUSDT
+2025-05-25 11:09:57,297 - websocket_client - INFO - Loading historical data for SOLUSDT at 1h timeframe
+2025-05-25 11:09:57,670 - websocket_client - INFO - Loaded initial historical data for BNTUSDT
+2025-05-25 11:09:57,670 - websocket_client - INFO - Loading historical data for COMPUSDT at 1h timeframe
+2025-05-25 11:09:57,803 - websocket_client - INFO - Loaded 100 historical candles for SOLUSDT
+2025-05-25 11:09:58,022 - websocket_client - INFO - Loaded initial historical data for RLCUSDT
+2025-05-25 11:09:58,023 - websocket_client - INFO - Loading historical data for ZENUSDT at 1h timeframe
+2025-05-25 11:09:58,195 - websocket_client - INFO - Loaded 100 historical candles for COMPUSDT
+2025-05-25 11:09:58,274 - websocket_client - INFO - Loaded initial historical data for SOLUSDT
+2025-05-25 11:09:58,487 - websocket_client - INFO - Loaded initial historical data for EURUSDT
+2025-05-25 11:09:58,530 - websocket_client - INFO - Loaded 100 historical candles for ZENUSDT
+2025-05-25 11:09:58,898 - websocket_client - INFO - Loaded initial historical data for COMPUSDT
+2025-05-25 11:09:59,288 - websocket_client - INFO - Loaded initial historical data for BCHUSDT
+2025-05-25 11:09:59,558 - websocket_client - INFO - Loaded initial historical data for ZENUSDT
+2025-05-25 11:10:00,560 - websocket_client - INFO - Loading historical data for MKRUSDT at 1h timeframe
+2025-05-25 11:10:00,561 - websocket_client - INFO - Loading historical data for SNXUSDT at 1h timeframe
+2025-05-25 11:10:00,561 - websocket_client - INFO - Loading historical data for DCRUSDT at 1h timeframe
+2025-05-25 11:10:00,561 - websocket_client - INFO - Loading historical data for YFIUSDT at 1h timeframe
+2025-05-25 11:10:00,561 - websocket_client - INFO - Loading historical data for CRVUSDT at 1h timeframe
+2025-05-25 11:10:01,075 - websocket_client - INFO - Loaded 100 historical candles for SNXUSDT
+2025-05-25 11:10:01,076 - websocket_client - INFO - Loaded 100 historical candles for DCRUSDT
+2025-05-25 11:10:01,079 - websocket_client - INFO - Loaded 100 historical candles for YFIUSDT
+2025-05-25 11:10:01,083 - websocket_client - INFO - Loaded 100 historical candles for CRVUSDT
+2025-05-25 11:10:01,086 - websocket_client - INFO - Loaded 100 historical candles for MKRUSDT
+2025-05-25 11:10:01,283 - websocket_client - INFO - Loaded initial historical data for CRVUSDT
+2025-05-25 11:10:01,284 - websocket_client - INFO - Loading historical data for NMRUSDT at 1h timeframe
+2025-05-25 11:10:01,445 - websocket_client - INFO - Loaded initial historical data for DCRUSDT
+2025-05-25 11:10:01,445 - websocket_client - INFO - Loading historical data for DOTUSDT at 1h timeframe
+2025-05-25 11:10:01,581 - websocket_client - INFO - Loaded initial historical data for SNXUSDT
+2025-05-25 11:10:01,582 - websocket_client - INFO - Loading historical data for PAXGUSDT at 1h timeframe
+2025-05-25 11:10:01,826 - websocket_client - INFO - Loaded 100 historical candles for NMRUSDT
+2025-05-25 11:10:01,852 - websocket_client - INFO - Loaded initial historical data for YFIUSDT
+2025-05-25 11:10:01,853 - websocket_client - INFO - Loading historical data for TRBUSDT at 1h timeframe
+2025-05-25 11:10:02,006 - websocket_client - INFO - Loaded initial historical data for NMRUSDT
+2025-05-25 11:10:02,008 - websocket_client - INFO - Loading historical data for SUSHIUSDT at 1h timeframe
+2025-05-25 11:10:02,009 - websocket_client - INFO - Loaded 100 historical candles for DOTUSDT
+2025-05-25 11:10:02,157 - websocket_client - INFO - Loaded 100 historical candles for PAXGUSDT
+2025-05-25 11:10:02,248 - websocket_client - INFO - Loaded initial historical data for MKRUSDT
+2025-05-25 11:10:02,346 - websocket_client - INFO - Loaded initial historical data for DOTUSDT
+2025-05-25 11:10:02,383 - websocket_client - INFO - Loaded 100 historical candles for TRBUSDT
+2025-05-25 11:10:02,508 - websocket_client - INFO - Loaded 100 historical candles for SUSHIUSDT
+2025-05-25 11:10:02,537 - websocket_client - INFO - Loaded initial historical data for PAXGUSDT
+2025-05-25 11:10:02,698 - websocket_client - INFO - Loaded initial historical data for SUSHIUSDT
+2025-05-25 11:10:02,865 - websocket_client - INFO - Loaded initial historical data for TRBUSDT
+2025-05-25 11:10:03,867 - websocket_client - INFO - Loading historical data for KSMUSDT at 1h timeframe
+2025-05-25 11:10:03,868 - websocket_client - INFO - Loading historical data for EGLDUSDT at 1h timeframe
+2025-05-25 11:10:03,868 - websocket_client - INFO - Loading historical data for RUNEUSDT at 1h timeframe
+2025-05-25 11:10:03,868 - websocket_client - INFO - Loading historical data for UMAUSDT at 1h timeframe
+2025-05-25 11:10:03,868 - websocket_client - INFO - Loading historical data for UNIUSDT at 1h timeframe
+2025-05-25 11:10:04,352 - websocket_client - INFO - Loaded 100 historical candles for KSMUSDT
+2025-05-25 11:10:04,367 - websocket_client - INFO - Loaded 100 historical candles for UMAUSDT
+2025-05-25 11:10:04,397 - websocket_client - INFO - Loaded 100 historical candles for EGLDUSDT
+2025-05-25 11:10:04,409 - websocket_client - INFO - Loaded 100 historical candles for UNIUSDT
+2025-05-25 11:10:04,519 - websocket_client - INFO - Loaded initial historical data for KSMUSDT
+2025-05-25 11:10:04,520 - websocket_client - INFO - Loading historical data for AVAXUSDT at 1h timeframe
+2025-05-25 11:10:04,719 - websocket_client - INFO - Loaded initial historical data for UMAUSDT
+2025-05-25 11:10:04,720 - websocket_client - INFO - Loading historical data for XVSUSDT at 1h timeframe
+2025-05-25 11:10:04,782 - websocket_client - INFO - Loaded 100 historical candles for RUNEUSDT
+2025-05-25 11:10:04,969 - websocket_client - INFO - Loaded initial historical data for RUNEUSDT
+2025-05-25 11:10:04,970 - websocket_client - INFO - Loading historical data for AAVEUSDT at 1h timeframe
+2025-05-25 11:10:05,076 - websocket_client - INFO - Loaded initial historical data for EGLDUSDT
+2025-05-25 11:10:05,077 - websocket_client - INFO - Loading historical data for NEARUSDT at 1h timeframe
+2025-05-25 11:10:05,229 - websocket_client - INFO - Loaded 100 historical candles for XVSUSDT
+2025-05-25 11:10:05,265 - websocket_client - INFO - Loaded 100 historical candles for AVAXUSDT
+2025-05-25 11:10:05,415 - websocket_client - INFO - Loaded initial historical data for UNIUSDT
+2025-05-25 11:10:05,415 - websocket_client - INFO - Loading historical data for FILUSDT at 1h timeframe
+2025-05-25 11:10:05,492 - websocket_client - INFO - Loaded 100 historical candles for AAVEUSDT
+2025-05-25 11:10:05,602 - websocket_client - INFO - Loaded 100 historical candles for NEARUSDT
+2025-05-25 11:10:05,928 - websocket_client - INFO - Loaded 100 historical candles for FILUSDT
+2025-05-25 11:10:06,093 - websocket_client - INFO - Loaded initial historical data for FILUSDT
+2025-05-25 11:10:06,288 - websocket_client - INFO - Loaded initial historical data for AVAXUSDT
+2025-05-25 11:10:06,727 - websocket_client - INFO - Loaded initial historical data for XVSUSDT
+2025-05-25 11:10:06,942 - websocket_client - INFO - Loaded initial historical data for AAVEUSDT
+2025-05-25 11:10:07,405 - websocket_client - INFO - Loaded initial historical data for NEARUSDT
+2025-05-25 11:10:08,417 - websocket_client - INFO - Loading historical data for INJUSDT at 1h timeframe
+2025-05-25 11:10:08,417 - websocket_client - INFO - Loading historical data for AXSUSDT at 1h timeframe
+2025-05-25 11:10:08,417 - websocket_client - INFO - Loading historical data for AVAUSDT at 1h timeframe
+2025-05-25 11:10:08,417 - websocket_client - INFO - Loading historical data for JUVUSDT at 1h timeframe
+2025-05-25 11:10:08,418 - websocket_client - INFO - Loading historical data for PSGUSDT at 1h timeframe
+2025-05-25 11:10:08,931 - websocket_client - INFO - Loaded 100 historical candles for JUVUSDT
+2025-05-25 11:10:08,932 - websocket_client - INFO - Loaded 100 historical candles for AXSUSDT
+2025-05-25 11:10:08,938 - websocket_client - INFO - Loaded 100 historical candles for INJUSDT
+2025-05-25 11:10:08,943 - websocket_client - INFO - Loaded 100 historical candles for PSGUSDT
+2025-05-25 11:10:08,944 - websocket_client - INFO - Loaded 100 historical candles for AVAUSDT
+2025-05-25 11:10:09,092 - websocket_client - INFO - Loaded initial historical data for JUVUSDT
+2025-05-25 11:10:09,093 - websocket_client - INFO - Loading historical data for OGUSDT at 1h timeframe
+2025-05-25 11:10:09,309 - websocket_client - INFO - Loaded initial historical data for AVAUSDT
+2025-05-25 11:10:09,310 - websocket_client - INFO - Loading historical data for ATMUSDT at 1h timeframe
+2025-05-25 11:10:09,423 - websocket_client - INFO - Loaded initial historical data for INJUSDT
+2025-05-25 11:10:09,424 - websocket_client - INFO - Loading historical data for ASRUSDT at 1h timeframe
+2025-05-25 11:10:09,607 - websocket_client - INFO - Loaded 100 historical candles for OGUSDT
+2025-05-25 11:10:09,620 - websocket_client - INFO - Loaded initial historical data for AXSUSDT
+2025-05-25 11:10:09,620 - websocket_client - INFO - Loading historical data for TWTUSDT at 1h timeframe
+2025-05-25 11:10:09,760 - websocket_client - INFO - Loaded initial historical data for OGUSDT
+2025-05-25 11:10:09,760 - websocket_client - INFO - Loading historical data for SFPUSDT at 1h timeframe
+2025-05-25 11:10:09,833 - websocket_client - INFO - Loaded 100 historical candles for ATMUSDT
+2025-05-25 11:10:09,951 - websocket_client - INFO - Loaded 100 historical candles for ASRUSDT
+2025-05-25 11:10:09,982 - websocket_client - INFO - Loaded initial historical data for ATMUSDT
+2025-05-25 11:10:10,113 - websocket_client - INFO - Loaded 100 historical candles for TWTUSDT
+2025-05-25 11:10:10,162 - websocket_client - INFO - Loaded initial historical data for ASRUSDT
+2025-05-25 11:10:10,258 - websocket_client - INFO - Loaded 100 historical candles for SFPUSDT
+2025-05-25 11:10:10,353 - websocket_client - INFO - Loaded initial historical data for TWTUSDT
+2025-05-25 11:10:10,539 - websocket_client - INFO - Loaded initial historical data for SFPUSDT
+2025-05-25 11:10:10,826 - websocket_client - INFO - Loaded initial historical data for PSGUSDT
+2025-05-25 11:10:11,849 - websocket_client - INFO - Loading historical data for CAKEUSDT at 1h timeframe
+2025-05-25 11:10:11,850 - websocket_client - INFO - Loading historical data for ACMUSDT at 1h timeframe
+2025-05-25 11:10:11,850 - websocket_client - INFO - Loading historical data for DEGOUSDT at 1h timeframe
+2025-05-25 11:10:11,850 - websocket_client - INFO - Loading historical data for SUPERUSDT at 1h timeframe
+2025-05-25 11:10:11,850 - websocket_client - INFO - Loading historical data for BARUSDT at 1h timeframe
+2025-05-25 11:10:12,369 - websocket_client - INFO - Loaded 100 historical candles for DEGOUSDT
+2025-05-25 11:10:12,370 - websocket_client - INFO - Loaded 100 historical candles for SUPERUSDT
+2025-05-25 11:10:12,372 - websocket_client - INFO - Loaded 100 historical candles for CAKEUSDT
+2025-05-25 11:10:12,377 - websocket_client - INFO - Loaded 100 historical candles for ACMUSDT
+2025-05-25 11:10:12,380 - websocket_client - INFO - Loaded 100 historical candles for BARUSDT
+2025-05-25 11:10:12,585 - websocket_client - INFO - Loaded initial historical data for SUPERUSDT
+2025-05-25 11:10:12,586 - websocket_client - INFO - Loading historical data for FORTHUSDT at 1h timeframe
+2025-05-25 11:10:12,827 - websocket_client - INFO - Loaded initial historical data for DEGOUSDT
+2025-05-25 11:10:12,827 - websocket_client - INFO - Loading historical data for ICPUSDT at 1h timeframe
+2025-05-25 11:10:13,093 - websocket_client - INFO - Loaded 100 historical candles for FORTHUSDT
+2025-05-25 11:10:13,334 - websocket_client - INFO - Loaded initial historical data for ACMUSDT
+2025-05-25 11:10:13,334 - websocket_client - INFO - Loading historical data for ARUSDT at 1h timeframe
+2025-05-25 11:10:13,413 - websocket_client - INFO - Loaded 100 historical candles for ICPUSDT
+2025-05-25 11:10:13,513 - websocket_client - INFO - Loaded initial historical data for BARUSDT
+2025-05-25 11:10:13,513 - websocket_client - INFO - Loading historical data for MASKUSDT at 1h timeframe
+2025-05-25 11:10:13,847 - websocket_client - INFO - Loaded 100 historical candles for ARUSDT
+2025-05-25 11:10:13,862 - websocket_client - INFO - Loaded initial historical data for ICPUSDT
+2025-05-25 11:10:13,863 - websocket_client - INFO - Loading historical data for LPTUSDT at 1h timeframe
+2025-05-25 11:10:14,032 - websocket_client - INFO - Loaded 100 historical candles for MASKUSDT
+2025-05-25 11:10:14,049 - websocket_client - INFO - Loaded initial historical data for ARUSDT
+2025-05-25 11:10:14,222 - websocket_client - INFO - Loaded initial historical data for MASKUSDT
+2025-05-25 11:10:14,382 - websocket_client - INFO - Loaded 100 historical candles for LPTUSDT
+2025-05-25 11:10:14,427 - websocket_client - INFO - Loaded initial historical data for FORTHUSDT
+2025-05-25 11:10:14,617 - websocket_client - INFO - Loaded initial historical data for LPTUSDT
+2025-05-25 11:10:14,841 - websocket_client - INFO - Loaded initial historical data for CAKEUSDT
+2025-05-25 11:10:15,849 - websocket_client - INFO - Loading historical data for MLNUSDT at 1h timeframe
+2025-05-25 11:10:15,851 - websocket_client - INFO - Loading historical data for DEXEUSDT at 1h timeframe
+2025-05-25 11:10:15,852 - websocket_client - INFO - Loading historical data for QNTUSDT at 1h timeframe
+2025-05-25 11:10:15,852 - websocket_client - INFO - Loading historical data for RAYUSDT at 1h timeframe
+2025-05-25 11:10:15,852 - websocket_client - INFO - Loading historical data for FARMUSDT at 1h timeframe
+2025-05-25 11:10:16,375 - websocket_client - INFO - Loaded 100 historical candles for QNTUSDT
+2025-05-25 11:10:16,380 - websocket_client - INFO - Loaded 100 historical candles for RAYUSDT
+2025-05-25 11:10:16,395 - websocket_client - INFO - Loaded 100 historical candles for MLNUSDT
+2025-05-25 11:10:16,397 - websocket_client - INFO - Loaded 100 historical candles for FARMUSDT
+2025-05-25 11:10:16,398 - websocket_client - INFO - Loaded 100 historical candles for DEXEUSDT
+2025-05-25 11:10:16,573 - websocket_client - INFO - Loaded initial historical data for MLNUSDT
+2025-05-25 11:10:16,574 - websocket_client - INFO - Loading historical data for GNOUSDT at 1h timeframe
+2025-05-25 11:10:16,764 - websocket_client - INFO - Loaded initial historical data for DEXEUSDT
+2025-05-25 11:10:16,764 - websocket_client - INFO - Loading historical data for DYDXUSDT at 1h timeframe
+2025-05-25 11:10:16,935 - websocket_client - INFO - Loaded initial historical data for RAYUSDT
+2025-05-25 11:10:16,936 - websocket_client - INFO - Loading historical data for USDPUSDT at 1h timeframe
+2025-05-25 11:10:17,088 - websocket_client - INFO - Loaded 100 historical candles for GNOUSDT
+2025-05-25 11:10:17,268 - websocket_client - INFO - Loaded initial historical data for GNOUSDT
+2025-05-25 11:10:17,268 - websocket_client - INFO - Loading historical data for ILVUSDT at 1h timeframe
+2025-05-25 11:10:17,278 - websocket_client - INFO - Loaded initial historical data for QNTUSDT
+2025-05-25 11:10:17,278 - websocket_client - INFO - Loading historical data for AGLDUSDT at 1h timeframe
+2025-05-25 11:10:17,359 - websocket_client - INFO - Loaded 100 historical candles for DYDXUSDT
+2025-05-25 11:10:17,542 - websocket_client - INFO - Loaded 100 historical candles for USDPUSDT
+2025-05-25 11:10:17,543 - websocket_client - INFO - Loaded initial historical data for DYDXUSDT
+2025-05-25 11:10:17,721 - websocket_client - INFO - Loaded initial historical data for USDPUSDT
+2025-05-25 11:10:17,944 - websocket_client - INFO - Loaded 100 historical candles for AGLDUSDT
+2025-05-25 11:10:17,945 - websocket_client - INFO - Loaded 100 historical candles for ILVUSDT
+2025-05-25 11:10:18,009 - websocket_client - INFO - Loaded initial historical data for FARMUSDT
+2025-05-25 11:10:18,232 - websocket_client - INFO - Loaded initial historical data for ILVUSDT
+2025-05-25 11:10:18,393 - websocket_client - INFO - Loaded initial historical data for AGLDUSDT
+2025-05-25 11:10:19,395 - websocket_client - INFO - Loading historical data for RADUSDT at 1h timeframe
+2025-05-25 11:10:19,395 - websocket_client - INFO - Loading historical data for LAZIOUSDT at 1h timeframe
+2025-05-25 11:10:19,395 - websocket_client - INFO - Loading historical data for AUCTIONUSDT at 1h timeframe
+2025-05-25 11:10:19,396 - websocket_client - INFO - Loading historical data for MOVRUSDT at 1h timeframe
+2025-05-25 11:10:19,396 - websocket_client - INFO - Loading historical data for CITYUSDT at 1h timeframe
+2025-05-25 11:10:19,923 - websocket_client - INFO - Loaded 100 historical candles for AUCTIONUSDT
+2025-05-25 11:10:19,925 - websocket_client - INFO - Loaded 100 historical candles for LAZIOUSDT
+2025-05-25 11:10:19,931 - websocket_client - INFO - Loaded 100 historical candles for RADUSDT
+2025-05-25 11:10:19,933 - websocket_client - INFO - Loaded 100 historical candles for CITYUSDT
+2025-05-25 11:10:19,935 - websocket_client - INFO - Loaded 100 historical candles for MOVRUSDT
+2025-05-25 11:10:20,123 - websocket_client - INFO - Loaded initial historical data for LAZIOUSDT
+2025-05-25 11:10:20,123 - websocket_client - INFO - Loading historical data for ENSUSDT at 1h timeframe
+2025-05-25 11:10:20,303 - websocket_client - INFO - Loaded initial historical data for CITYUSDT
+2025-05-25 11:10:20,303 - websocket_client - INFO - Loading historical data for PORTOUSDT at 1h timeframe
+2025-05-25 11:10:20,564 - websocket_client - INFO - Loaded initial historical data for MOVRUSDT
+2025-05-25 11:10:20,564 - websocket_client - INFO - Loading historical data for PYRUSDT at 1h timeframe
+2025-05-25 11:10:20,619 - websocket_client - INFO - Loaded 100 historical candles for ENSUSDT
+2025-05-25 11:10:20,774 - websocket_client - INFO - Loaded initial historical data for RADUSDT
+2025-05-25 11:10:20,774 - websocket_client - INFO - Loading historical data for ALCXUSDT at 1h timeframe
+2025-05-25 11:10:20,813 - websocket_client - INFO - Loaded 100 historical candles for PORTOUSDT
+2025-05-25 11:10:20,967 - websocket_client - INFO - Loaded initial historical data for ENSUSDT
+2025-05-25 11:10:20,968 - websocket_client - INFO - Loading historical data for SANTOSUSDT at 1h timeframe
+2025-05-25 11:10:21,070 - websocket_client - INFO - Loaded 100 historical candles for PYRUSDT
+2025-05-25 11:10:21,151 - websocket_client - INFO - Loaded initial historical data for PORTOUSDT
+2025-05-25 11:10:21,286 - websocket_client - INFO - Loaded 100 historical candles for ALCXUSDT
+2025-05-25 11:10:21,332 - websocket_client - INFO - Loaded initial historical data for PYRUSDT
+2025-05-25 11:10:21,472 - websocket_client - INFO - Loaded 100 historical candles for SANTOSUSDT
+2025-05-25 11:10:21,515 - websocket_client - INFO - Loaded initial historical data for ALCXUSDT
+2025-05-25 11:10:21,696 - websocket_client - INFO - Loaded initial historical data for SANTOSUSDT
+2025-05-25 11:10:21,971 - websocket_client - INFO - Loaded initial historical data for AUCTIONUSDT
+2025-05-25 11:10:22,974 - websocket_client - INFO - Loading historical data for FXSUSDT at 1h timeframe
+2025-05-25 11:10:22,974 - websocket_client - INFO - Loading historical data for HIGHUSDT at 1h timeframe
+2025-05-25 11:10:22,975 - websocket_client - INFO - Loading historical data for CVXUSDT at 1h timeframe
+2025-05-25 11:10:22,975 - websocket_client - INFO - Loading historical data for IMXUSDT at 1h timeframe
+2025-05-25 11:10:22,975 - websocket_client - INFO - Loading historical data for API3USDT at 1h timeframe
+2025-05-25 11:10:23,496 - websocket_client - INFO - Loaded 100 historical candles for FXSUSDT
+2025-05-25 11:10:23,497 - websocket_client - INFO - Loaded 100 historical candles for CVXUSDT
+2025-05-25 11:10:23,500 - websocket_client - INFO - Loaded 100 historical candles for IMXUSDT
+2025-05-25 11:10:23,501 - websocket_client - INFO - Loaded 100 historical candles for API3USDT
+2025-05-25 11:10:23,503 - websocket_client - INFO - Loaded 100 historical candles for HIGHUSDT
+2025-05-25 11:10:23,850 - websocket_client - INFO - Loaded initial historical data for API3USDT
+2025-05-25 11:10:23,851 - websocket_client - INFO - Loading historical data for XNOUSDT at 1h timeframe
+2025-05-25 11:10:23,885 - websocket_client - INFO - Loaded initial historical data for FXSUSDT
+2025-05-25 11:10:23,885 - websocket_client - INFO - Loading historical data for ALPINEUSDT at 1h timeframe
+2025-05-25 11:10:24,055 - websocket_client - INFO - Loaded initial historical data for CVXUSDT
+2025-05-25 11:10:24,056 - websocket_client - INFO - Loading historical data for KDAUSDT at 1h timeframe
+2025-05-25 11:10:24,254 - websocket_client - INFO - Loaded initial historical data for HIGHUSDT
+2025-05-25 11:10:24,255 - websocket_client - INFO - Loading historical data for APEUSDT at 1h timeframe
+2025-05-25 11:10:24,349 - websocket_client - INFO - Loaded 100 historical candles for XNOUSDT
+2025-05-25 11:10:24,443 - websocket_client - INFO - Loaded 100 historical candles for ALPINEUSDT
+2025-05-25 11:10:24,456 - websocket_client - INFO - Loaded initial historical data for IMXUSDT
+2025-05-25 11:10:24,457 - websocket_client - INFO - Loading historical data for BIFIUSDT at 1h timeframe
+2025-05-25 11:10:24,578 - websocket_client - INFO - Loaded 100 historical candles for KDAUSDT
+2025-05-25 11:10:24,643 - websocket_client - INFO - Loaded initial historical data for ALPINEUSDT
+2025-05-25 11:10:24,749 - websocket_client - INFO - Loaded 100 historical candles for APEUSDT
+2025-05-25 11:10:24,823 - websocket_client - INFO - Loaded initial historical data for KDAUSDT
+2025-05-25 11:10:24,985 - websocket_client - INFO - Loaded 100 historical candles for BIFIUSDT
+2025-05-25 11:10:25,166 - websocket_client - INFO - Loaded initial historical data for BIFIUSDT
+2025-05-25 11:10:25,193 - websocket_client - INFO - Loaded initial historical data for APEUSDT
+2025-05-25 11:10:25,407 - websocket_client - INFO - Loaded initial historical data for XNOUSDT
+2025-05-25 11:10:26,432 - websocket_client - INFO - Loading historical data for NEXOUSDT at 1h timeframe
+2025-05-25 11:10:26,432 - websocket_client - INFO - Loading historical data for OPUSDT at 1h timeframe
+2025-05-25 11:10:26,432 - websocket_client - INFO - Loading historical data for LDOUSDT at 1h timeframe
+2025-05-25 11:10:26,432 - websocket_client - INFO - Loading historical data for GMXUSDT at 1h timeframe
+2025-05-25 11:10:26,432 - websocket_client - INFO - Loading historical data for APTUSDT at 1h timeframe
+2025-05-25 11:10:26,944 - websocket_client - INFO - Loaded 100 historical candles for LDOUSDT
+2025-05-25 11:10:26,952 - websocket_client - INFO - Loaded 100 historical candles for APTUSDT
+2025-05-25 11:10:26,954 - websocket_client - INFO - Loaded 100 historical candles for NEXOUSDT
+2025-05-25 11:10:26,956 - websocket_client - INFO - Loaded 100 historical candles for OPUSDT
+2025-05-25 11:10:26,965 - websocket_client - INFO - Loaded 100 historical candles for GMXUSDT
+2025-05-25 11:10:27,182 - websocket_client - INFO - Loaded initial historical data for OPUSDT
+2025-05-25 11:10:27,183 - websocket_client - INFO - Loading historical data for PHBUSDT at 1h timeframe
+2025-05-25 11:10:27,647 - websocket_client - INFO - Loaded initial historical data for LDOUSDT
+2025-05-25 11:10:27,648 - websocket_client - INFO - Loading historical data for RPLUSDT at 1h timeframe
+2025-05-25 11:10:27,695 - websocket_client - INFO - Loaded 100 historical candles for PHBUSDT
+2025-05-25 11:10:27,987 - websocket_client - INFO - Loaded initial historical data for NEXOUSDT
+2025-05-25 11:10:27,987 - websocket_client - INFO - Loading historical data for GNSUSDT at 1h timeframe
+2025-05-25 11:10:28,164 - websocket_client - INFO - Loaded 100 historical candles for RPLUSDT
+2025-05-25 11:10:28,497 - websocket_client - INFO - Loaded 100 historical candles for GNSUSDT
+2025-05-25 11:10:28,666 - websocket_client - INFO - Loaded initial historical data for APTUSDT
+2025-05-25 11:10:28,672 - websocket_client - INFO - Loading historical data for SSVUSDT at 1h timeframe
+2025-05-25 11:10:29,185 - websocket_client - INFO - Loaded 100 historical candles for SSVUSDT
+2025-05-25 11:10:29,633 - websocket_client - INFO - Loaded initial historical data for RPLUSDT
+2025-05-25 11:10:29,634 - websocket_client - INFO - Loading historical data for LQTYUSDT at 1h timeframe
+2025-05-25 11:10:30,009 - websocket_client - INFO - Loaded initial historical data for GNSUSDT
+2025-05-25 11:10:30,143 - websocket_client - INFO - Loaded 100 historical candles for LQTYUSDT
+2025-05-25 11:10:30,217 - websocket_client - INFO - Loaded initial historical data for GMXUSDT
+2025-05-25 11:10:30,536 - websocket_client - INFO - Loaded initial historical data for LQTYUSDT
+2025-05-25 11:10:30,545 - websocket_client - INFO - Loaded initial historical data for PHBUSDT
+2025-05-25 11:10:30,741 - websocket_client - INFO - Loaded initial historical data for SSVUSDT
+2025-05-25 11:10:31,743 - websocket_client - INFO - Loading historical data for PROMUSDT at 1h timeframe
+2025-05-25 11:10:31,744 - websocket_client - INFO - Loading historical data for GASUSDT at 1h timeframe
+2025-05-25 11:10:31,744 - websocket_client - INFO - Loading historical data for WBTCUSDT at 1h timeframe
+2025-05-25 11:10:31,744 - websocket_client - INFO - Loading historical data for SUIUSDT at 1h timeframe
+2025-05-25 11:10:31,744 - websocket_client - INFO - Loading historical data for PENDLEUSDT at 1h timeframe
+2025-05-25 11:10:32,283 - websocket_client - INFO - Loaded 100 historical candles for PENDLEUSDT
+2025-05-25 11:10:32,286 - websocket_client - INFO - Loaded 100 historical candles for PROMUSDT
+2025-05-25 11:10:32,288 - websocket_client - INFO - Loaded 100 historical candles for WBTCUSDT
+2025-05-25 11:10:32,291 - websocket_client - INFO - Loaded 100 historical candles for GASUSDT
+2025-05-25 11:10:32,314 - websocket_client - INFO - Loaded 100 historical candles for SUIUSDT
+2025-05-25 11:10:32,694 - websocket_client - INFO - Loaded initial historical data for SUIUSDT
+2025-05-25 11:10:32,694 - websocket_client - INFO - Loading historical data for ARKMUSDT at 1h timeframe
+2025-05-25 11:10:32,873 - websocket_client - INFO - Loaded initial historical data for PENDLEUSDT
+2025-05-25 11:10:32,873 - websocket_client - INFO - Loading historical data for WBETHUSDT at 1h timeframe
+2025-05-25 11:10:32,929 - websocket_client - INFO - Loaded initial historical data for PROMUSDT
+2025-05-25 11:10:32,930 - websocket_client - INFO - Loading historical data for WLDUSDT at 1h timeframe
+2025-05-25 11:10:33,150 - websocket_client - INFO - Loaded initial historical data for GASUSDT
+2025-05-25 11:10:33,151 - websocket_client - INFO - Loading historical data for FDUSDUSDT at 1h timeframe
+2025-05-25 11:10:33,209 - websocket_client - INFO - Loaded 100 historical candles for ARKMUSDT
+2025-05-25 11:10:33,376 - websocket_client - INFO - Loaded 100 historical candles for WBETHUSDT
+2025-05-25 11:10:33,386 - websocket_client - INFO - Loaded initial historical data for ARKMUSDT
+2025-05-25 11:10:33,387 - websocket_client - INFO - Loading historical data for CYBERUSDT at 1h timeframe
+2025-05-25 11:10:33,466 - websocket_client - INFO - Loaded 100 historical candles for WLDUSDT
+2025-05-25 11:10:33,587 - websocket_client - INFO - Loaded initial historical data for WBETHUSDT
+2025-05-25 11:10:33,675 - websocket_client - INFO - Loaded 100 historical candles for FDUSDUSDT
+2025-05-25 11:10:33,770 - websocket_client - INFO - Loaded initial historical data for WLDUSDT
+2025-05-25 11:10:33,909 - websocket_client - INFO - Loaded 100 historical candles for CYBERUSDT
+2025-05-25 11:10:33,968 - websocket_client - INFO - Loaded initial historical data for FDUSDUSDT
+2025-05-25 11:10:34,174 - websocket_client - INFO - Loaded initial historical data for CYBERUSDT
+2025-05-25 11:10:34,373 - websocket_client - INFO - Loaded initial historical data for WBTCUSDT
+2025-05-25 11:10:35,375 - websocket_client - INFO - Loading historical data for TIAUSDT at 1h timeframe
+2025-05-25 11:10:35,375 - websocket_client - INFO - Loading historical data for ORDIUSDT at 1h timeframe
+2025-05-25 11:10:35,375 - websocket_client - INFO - Loading historical data for AEURUSDT at 1h timeframe
+2025-05-25 11:10:35,376 - websocket_client - INFO - Loading historical data for JTOUSDT at 1h timeframe
+2025-05-25 11:10:35,376 - websocket_client - INFO - Loading historical data for ACEUSDT at 1h timeframe
+2025-05-25 11:10:35,898 - websocket_client - INFO - Loaded 100 historical candles for ACEUSDT
+2025-05-25 11:10:35,901 - websocket_client - INFO - Loaded 100 historical candles for TIAUSDT
+2025-05-25 11:10:35,907 - websocket_client - INFO - Loaded 100 historical candles for AEURUSDT
+2025-05-25 11:10:35,908 - websocket_client - INFO - Loaded 100 historical candles for JTOUSDT
+2025-05-25 11:10:36,057 - websocket_client - INFO - Loaded 100 historical candles for ORDIUSDT
+2025-05-25 11:10:36,185 - websocket_client - INFO - Loaded initial historical data for JTOUSDT
+2025-05-25 11:10:36,186 - websocket_client - INFO - Loading historical data for JUPUSDT at 1h timeframe
+2025-05-25 11:10:36,326 - websocket_client - INFO - Loaded initial historical data for ACEUSDT
+2025-05-25 11:10:36,327 - websocket_client - INFO - Loading historical data for RONINUSDT at 1h timeframe
+2025-05-25 11:10:36,670 - websocket_client - INFO - Loaded initial historical data for AEURUSDT
+2025-05-25 11:10:36,671 - websocket_client - INFO - Loading historical data for WIFUSDT at 1h timeframe
+2025-05-25 11:10:36,716 - websocket_client - INFO - Loaded 100 historical candles for JUPUSDT
+2025-05-25 11:10:36,723 - websocket_client - INFO - Loaded initial historical data for ORDIUSDT
+2025-05-25 11:10:36,723 - websocket_client - INFO - Loading historical data for METISUSDT at 1h timeframe
+2025-05-25 11:10:36,839 - websocket_client - INFO - Loaded 100 historical candles for RONINUSDT
+2025-05-25 11:10:36,897 - websocket_client - INFO - Loaded initial historical data for JUPUSDT
+2025-05-25 11:10:36,898 - websocket_client - INFO - Loading historical data for ETHFIUSDT at 1h timeframe
+2025-05-25 11:10:37,117 - websocket_client - INFO - Loaded initial historical data for TIAUSDT
+2025-05-25 11:10:37,177 - websocket_client - INFO - Loaded 100 historical candles for WIFUSDT
+2025-05-25 11:10:37,195 - websocket_client - INFO - Loaded initial historical data for RONINUSDT
+2025-05-25 11:10:37,211 - websocket_client - INFO - Loaded 100 historical candles for METISUSDT
+2025-05-25 11:10:37,379 - websocket_client - INFO - Loaded initial historical data for WIFUSDT
+2025-05-25 11:10:37,401 - websocket_client - INFO - Loaded 100 historical candles for ETHFIUSDT
+2025-05-25 11:10:37,557 - websocket_client - INFO - Loaded initial historical data for ETHFIUSDT
+2025-05-25 11:10:37,740 - websocket_client - INFO - Loaded initial historical data for METISUSDT
+2025-05-25 11:10:38,742 - websocket_client - INFO - Loading historical data for OMNIUSDT at 1h timeframe
+2025-05-25 11:10:38,742 - websocket_client - INFO - Loading historical data for TAOUSDT at 1h timeframe
+2025-05-25 11:10:38,742 - websocket_client - INFO - Loading historical data for IOUSDT at 1h timeframe
+2025-05-25 11:10:38,743 - websocket_client - INFO - Loading historical data for ZROUSDT at 1h timeframe
+2025-05-25 11:10:38,743 - websocket_client - INFO - Loading historical data for BANANAUSDT at 1h timeframe
+2025-05-25 11:10:39,268 - websocket_client - INFO - Loaded 100 historical candles for ZROUSDT
+2025-05-25 11:10:39,271 - websocket_client - INFO - Loaded 100 historical candles for BANANAUSDT
+2025-05-25 11:10:39,274 - websocket_client - INFO - Loaded 100 historical candles for OMNIUSDT
+2025-05-25 11:10:39,278 - websocket_client - INFO - Loaded 100 historical candles for TAOUSDT
+2025-05-25 11:10:39,281 - websocket_client - INFO - Loaded 100 historical candles for IOUSDT
+2025-05-25 11:10:39,592 - websocket_client - INFO - Loaded initial historical data for BANANAUSDT
+2025-05-25 11:10:39,592 - websocket_client - INFO - Loading historical data for RENDERUSDT at 1h timeframe
+2025-05-25 11:10:39,655 - websocket_client - INFO - Loaded initial historical data for TAOUSDT
+2025-05-25 11:10:39,656 - websocket_client - INFO - Loading historical data for TONUSDT at 1h timeframe
+2025-05-25 11:10:39,903 - websocket_client - INFO - Loaded initial historical data for ZROUSDT
+2025-05-25 11:10:39,903 - websocket_client - INFO - Loading historical data for EURIUSDT at 1h timeframe
+2025-05-25 11:10:40,115 - websocket_client - INFO - Loaded 100 historical candles for RENDERUSDT
+2025-05-25 11:10:40,129 - websocket_client - INFO - Loaded initial historical data for OMNIUSDT
+2025-05-25 11:10:40,130 - websocket_client - INFO - Loading historical data for EIGENUSDT at 1h timeframe
+2025-05-25 11:10:40,175 - websocket_client - INFO - Loaded 100 historical candles for TONUSDT
+2025-05-25 11:10:40,316 - websocket_client - INFO - Loaded initial historical data for RENDERUSDT
+2025-05-25 11:10:40,316 - websocket_client - INFO - Loading historical data for BNSOLUSDT at 1h timeframe
+2025-05-25 11:10:40,425 - websocket_client - INFO - Loaded 100 historical candles for EURIUSDT
+2025-05-25 11:10:40,519 - websocket_client - INFO - Loaded initial historical data for TONUSDT
+2025-05-25 11:10:40,639 - websocket_client - INFO - Loaded 100 historical candles for EIGENUSDT
+2025-05-25 11:10:40,719 - websocket_client - INFO - Loaded initial historical data for EURIUSDT
+2025-05-25 11:10:40,816 - websocket_client - INFO - Loaded 100 historical candles for BNSOLUSDT
+2025-05-25 11:10:41,036 - websocket_client - INFO - Loaded initial historical data for EIGENUSDT
+2025-05-25 11:10:41,174 - websocket_client - INFO - Loaded initial historical data for BNSOLUSDT
+2025-05-25 11:10:41,537 - websocket_client - INFO - Loaded initial historical data for IOUSDT
+2025-05-25 11:10:42,539 - websocket_client - INFO - Loading historical data for ORCAUSDT at 1h timeframe
+2025-05-25 11:10:42,539 - websocket_client - INFO - Loading historical data for MEUSDT at 1h timeframe
+2025-05-25 11:10:42,539 - websocket_client - INFO - Loading historical data for VANAUSDT at 1h timeframe
+2025-05-25 11:10:42,539 - websocket_client - INFO - Loading historical data for TRUMPUSDT at 1h timeframe
+2025-05-25 11:10:42,540 - websocket_client - INFO - Loading historical data for BERAUSDT at 1h timeframe
+2025-05-25 11:10:43,057 - websocket_client - INFO - Loaded 100 historical candles for MEUSDT
+2025-05-25 11:10:43,060 - websocket_client - INFO - Loaded 100 historical candles for TRUMPUSDT
+2025-05-25 11:10:43,064 - websocket_client - INFO - Loaded 100 historical candles for ORCAUSDT
+2025-05-25 11:10:43,070 - websocket_client - INFO - Loaded 100 historical candles for BERAUSDT
+2025-05-25 11:10:43,072 - websocket_client - INFO - Loaded 100 historical candles for VANAUSDT
+2025-05-25 11:10:43,242 - websocket_client - INFO - Loaded initial historical data for ORCAUSDT
+2025-05-25 11:10:43,242 - websocket_client - INFO - Loading historical data for LAYERUSDT at 1h timeframe
+2025-05-25 11:10:43,442 - websocket_client - INFO - Loaded initial historical data for VANAUSDT
+2025-05-25 11:10:43,442 - websocket_client - INFO - Loading historical data for KAITOUSDT at 1h timeframe
+2025-05-25 11:10:43,688 - websocket_client - INFO - Loaded initial historical data for MEUSDT
+2025-05-25 11:10:43,688 - websocket_client - INFO - Loading historical data for EPICUSDT at 1h timeframe
+2025-05-25 11:10:43,749 - websocket_client - INFO - Loaded 100 historical candles for LAYERUSDT
+2025-05-25 11:10:43,872 - websocket_client - INFO - Loaded initial historical data for BERAUSDT
+2025-05-25 11:10:43,872 - websocket_client - INFO - Loading historical data for FORMUSDT at 1h timeframe
+2025-05-25 11:10:43,967 - websocket_client - INFO - Loaded 100 historical candles for KAITOUSDT
+2025-05-25 11:10:44,040 - websocket_client - INFO - Loaded initial historical data for LAYERUSDT
+2025-05-25 11:10:44,042 - websocket_client - INFO - Loading historical data for XUSDUSDT at 1h timeframe
+2025-05-25 11:10:44,211 - websocket_client - INFO - Loaded 100 historical candles for EPICUSDT
+2025-05-25 11:10:44,281 - websocket_client - INFO - Loaded initial historical data for KAITOUSDT
+2025-05-25 11:10:44,369 - websocket_client - INFO - Loaded 100 historical candles for FORMUSDT
+2025-05-25 11:10:44,455 - websocket_client - INFO - Loaded initial historical data for EPICUSDT
+2025-05-25 11:10:44,546 - websocket_client - INFO - Loaded 100 historical candles for XUSDUSDT
+2025-05-25 11:10:44,641 - websocket_client - INFO - Loaded initial historical data for FORMUSDT
+2025-05-25 11:10:44,929 - websocket_client - INFO - Loaded initial historical data for XUSDUSDT
+2025-05-25 11:10:45,171 - websocket_client - INFO - Loaded initial historical data for TRUMPUSDT
+2025-05-25 11:10:46,173 - websocket_client - INFO - Loading historical data for VIRTUALUSDT at 1h timeframe
+2025-05-25 11:10:46,173 - websocket_client - INFO - Loading historical data for ONDOUSDT at 1h timeframe
+2025-05-25 11:10:46,173 - websocket_client - INFO - Loading historical data for WCTUSDT at 1h timeframe
+2025-05-25 11:10:46,174 - websocket_client - INFO - Loading historical data for INITUSDT at 1h timeframe
+2025-05-25 11:10:46,174 - websocket_client - INFO - Loading historical data for NXPCUSDT at 1h timeframe
+2025-05-25 11:10:46,697 - websocket_client - INFO - Loaded 100 historical candles for WCTUSDT
+2025-05-25 11:10:46,698 - websocket_client - INFO - Loaded 100 historical candles for ONDOUSDT
+2025-05-25 11:10:46,728 - websocket_client - INFO - Loaded 100 historical candles for INITUSDT
+2025-05-25 11:10:46,729 - websocket_client - INFO - Loaded 100 historical candles for VIRTUALUSDT
+2025-05-25 11:10:46,734 - websocket_client - INFO - Loaded 100 historical candles for NXPCUSDT
+2025-05-25 11:10:46,900 - websocket_client - INFO - Loaded initial historical data for INITUSDT
+2025-05-25 11:10:46,900 - websocket_client - INFO - Loading historical data for USD1USDT at 1h timeframe
+2025-05-25 11:10:47,237 - websocket_client - INFO - Loaded initial historical data for WCTUSDT
+2025-05-25 11:10:47,241 - websocket_client - INFO - Loaded initial historical data for NXPCUSDT
+2025-05-25 11:10:47,408 - websocket_client - INFO - Loaded 71 historical candles for USD1USDT
+2025-05-25 11:10:47,439 - websocket_client - INFO - Loaded initial historical data for ONDOUSDT
+2025-05-25 11:10:47,556 - websocket_client - INFO - Loaded initial historical data for USD1USDT
+2025-05-25 11:10:47,778 - websocket_client - INFO - Loaded initial historical data for VIRTUALUSDT
+2025-05-25 11:10:47,780 - websocket_client - INFO - Binance WebSocket client initialized
+2025-05-25 11:10:47,781 - indicators - INFO - Technical indicators module initialized
+2025-05-25 11:10:47,781 - ai_model_enhanced - INFO - Enhanced AI model initialized with multi-model support
+2025-05-25 11:10:47,781 - signal_generator - INFO - Signal generator initialized
+2025-05-25 11:10:47,784 - telegram_adapter - INFO - Telegram bot initialized successfully
+2025-05-25 11:10:47,784 - __main__ - INFO - Telegram bot initialized with token: 76331...fhSNI
+2025-05-25 11:10:47,785 - __main__ - INFO - Trading bot initialized with enhanced components
+2025-05-25 11:10:47,785 - __main__ - INFO - Starting trading bot
+2025-05-25 11:10:48,932 - websocket_client - INFO - Excluded IOTAUSDT due to price below 0.5 USDT
+2025-05-25 11:10:48,933 - websocket_client - INFO - Excluded XLMUSDT due to price below 0.5 USDT
+2025-05-25 11:10:48,980 - websocket_client - INFO - Excluded AWEUSDT due to price below 0.5 USDT
+2025-05-25 11:10:48,980 - websocket_client - INFO - Excluded HAEDALUSDT due to price below 0.5 USDT
+2025-05-25 11:10:48,980 - websocket_client - INFO - Fetched 156 active USDT trading pairs
+2025-05-25 11:10:50,488 - websocket - INFO - Websocket connected
+2025-05-25 11:10:50,489 - websocket_client - INFO - WebSocket connected: btcusdt@kline_1m
+2025-05-25 11:10:50,941 - websocket - INFO - Websocket connected
+2025-05-25 11:10:50,942 - websocket_client - INFO - WebSocket connected: ethusdt@kline_1m
+2025-05-25 11:10:51,441 - websocket - INFO - Websocket connected
+2025-05-25 11:10:51,442 - websocket_client - INFO - WebSocket connected: bnbusdt@kline_1m
+2025-05-25 11:10:51,974 - websocket - INFO - Websocket connected
+2025-05-25 11:10:51,976 - websocket_client - INFO - WebSocket connected: neousdt@kline_1m
+2025-05-25 11:10:52,429 - websocket - INFO - Websocket connected
+2025-05-25 11:10:52,430 - websocket_client - INFO - WebSocket connected: ltcusdt@kline_1m
+2025-05-25 11:10:52,945 - websocket - INFO - Websocket connected
+2025-05-25 11:10:52,946 - websocket_client - INFO - WebSocket connected: qtumusdt@kline_1m
+2025-05-25 11:10:53,478 - websocket - INFO - Websocket connected
+2025-05-25 11:10:53,479 - websocket_client - INFO - WebSocket connected: adausdt@kline_1m
+2025-05-25 11:10:53,921 - websocket - INFO - Websocket connected
+2025-05-25 11:10:53,922 - websocket_client - INFO - WebSocket connected: xrpusdt@kline_1m
+2025-05-25 11:10:54,040 - websocket_client - INFO - Connected to 10 symbols
+2025-05-25 11:10:54,432 - websocket - INFO - Websocket connected
+2025-05-25 11:10:54,433 - websocket_client - INFO - WebSocket connected: eosusdt@kline_1m
+2025-05-25 11:10:54,937 - websocket - INFO - Websocket connected
+2025-05-25 11:10:54,938 - websocket_client - INFO - WebSocket connected: tusdusdt@kline_1m
+2025-05-25 11:10:59,041 - __main__ - INFO - Starting Telegram bot
+2025-05-25 11:10:59,042 - telegram_adapter - INFO - Starting Telegram update polling
+2025-05-25 11:10:59,529 - __main__ - INFO - Telegram bot started successfully
+2025-05-25 11:10:59,529 - __main__ - INFO - Trading bot started successfully
+2025-05-25 11:10:59,529 - __main__ - INFO - Trading bot running. Press Ctrl+C to stop.
+2025-05-25 11:10:59,530 - __main__ - INFO - Active components: ['database', 'websocket', 'indicators', 'ai_model', 'signals', 'telegram']
+2025-05-25 11:16:09,266 - __main__ - INFO - Processing symbols batch: ['BTCUSDT', 'ETHUSDT', 'BNBUSDT', 'NEOUSDT', 'LTCUSDT']
+2025-05-25 11:16:09,267 - indicators - WARNING - Not enough data for BTCUSDT 1h indicators
+2025-05-25 11:16:09,270 - __main__ - WARNING - Failed to calculate indicators for BTCUSDT
+2025-05-25 11:16:09,271 - indicators - WARNING - Not enough data for ETHUSDT 1h indicators
+2025-05-25 11:16:09,271 - __main__ - WARNING - Failed to calculate indicators for ETHUSDT
+2025-05-25 11:16:09,273 - indicators - WARNING - Not enough data for BNBUSDT 1h indicators
+2025-05-25 11:16:09,273 - __main__ - WARNING - Failed to calculate indicators for BNBUSDT
+2025-05-25 11:16:09,274 - indicators - WARNING - Not enough data for NEOUSDT 1h indicators
+2025-05-25 11:16:09,275 - __main__ - WARNING - Failed to calculate indicators for NEOUSDT
+2025-05-25 11:16:09,276 - indicators - WARNING - Not enough data for LTCUSDT 1h indicators
+2025-05-25 11:16:09,277 - __main__ - WARNING - Failed to calculate indicators for LTCUSDT
+2025-05-25 11:16:14,278 - __main__ - INFO - Processing symbols batch: ['QTUMUSDT', 'ADAUSDT', 'XRPUSDT', 'EOSUSDT', 'TUSDUSDT']
+2025-05-25 11:16:14,279 - indicators - WARNING - Not enough data for QTUMUSDT 1h indicators
+2025-05-25 11:16:14,279 - __main__ - WARNING - Failed to calculate indicators for QTUMUSDT
+2025-05-25 11:16:14,280 - indicators - WARNING - Not enough data for ADAUSDT 1h indicators
+2025-05-25 11:16:14,280 - __main__ - WARNING - Failed to calculate indicators for ADAUSDT
+2025-05-25 11:16:14,281 - indicators - WARNING - Not enough data for XRPUSDT 1h indicators
+2025-05-25 11:16:14,282 - __main__ - WARNING - Failed to calculate indicators for XRPUSDT
+2025-05-25 11:16:14,283 - indicators - WARNING - Not enough data for EOSUSDT 1h indicators
+2025-05-25 11:16:14,283 - __main__ - WARNING - Failed to calculate indicators for EOSUSDT
+2025-05-25 11:16:14,284 - indicators - WARNING - Not enough data for TUSDUSDT 1h indicators
+2025-05-25 11:16:14,285 - __main__ - WARNING - Failed to calculate indicators for TUSDUSDT
+2025-05-25 11:17:19,286 - __main__ - INFO - Processing symbols batch: ['BTCUSDT', 'ETHUSDT', 'BNBUSDT', 'NEOUSDT', 'LTCUSDT']
+2025-05-25 11:17:19,287 - indicators - WARNING - Not enough data for BTCUSDT 1h indicators
+2025-05-25 11:17:19,287 - __main__ - WARNING - Failed to calculate indicators for BTCUSDT
+2025-05-25 11:17:19,288 - indicators - WARNING - Not enough data for ETHUSDT 1h indicators
+2025-05-25 11:17:19,289 - __main__ - WARNING - Failed to calculate indicators for ETHUSDT
+2025-05-25 11:17:19,290 - indicators - WARNING - Not enough data for BNBUSDT 1h indicators
+2025-05-25 11:17:19,291 - __main__ - WARNING - Failed to calculate indicators for BNBUSDT
+2025-05-25 11:17:19,292 - indicators - WARNING - Not enough data for NEOUSDT 1h indicators
+2025-05-25 11:17:19,292 - __main__ - WARNING - Failed to calculate indicators for NEOUSDT
+2025-05-25 11:17:19,293 - indicators - WARNING - Not enough data for LTCUSDT 1h indicators
+2025-05-25 11:17:19,294 - __main__ - WARNING - Failed to calculate indicators for LTCUSDT
+2025-05-25 11:17:24,295 - __main__ - INFO - Processing symbols batch: ['QTUMUSDT', 'ADAUSDT', 'XRPUSDT', 'EOSUSDT', 'TUSDUSDT']
+2025-05-25 11:17:24,296 - indicators - WARNING - Not enough data for QTUMUSDT 1h indicators
+2025-05-25 11:17:24,296 - __main__ - WARNING - Failed to calculate indicators for QTUMUSDT
+2025-05-25 11:17:24,297 - indicators - WARNING - Not enough data for ADAUSDT 1h indicators
+2025-05-25 11:17:24,298 - __main__ - WARNING - Failed to calculate indicators for ADAUSDT
+2025-05-25 11:17:24,299 - indicators - WARNING - Not enough data for XRPUSDT 1h indicators
+2025-05-25 11:17:24,299 - __main__ - WARNING - Failed to calculate indicators for XRPUSDT
+2025-05-25 11:17:24,301 - indicators - WARNING - Not enough data for EOSUSDT 1h indicators
+2025-05-25 11:17:24,301 - __main__ - WARNING - Failed to calculate indicators for EOSUSDT
+2025-05-25 11:17:24,302 - indicators - WARNING - Not enough data for TUSDUSDT 1h indicators
+2025-05-25 11:17:24,302 - __main__ - WARNING - Failed to calculate indicators for TUSDUSDT
+2025-05-25 11:18:29,303 - __main__ - INFO - Processing symbols batch: ['BTCUSDT', 'ETHUSDT', 'BNBUSDT', 'NEOUSDT', 'LTCUSDT']
+2025-05-25 11:18:29,305 - indicators - WARNING - Not enough data for BTCUSDT 1h indicators
+2025-05-25 11:18:29,305 - __main__ - WARNING - Failed to calculate indicators for BTCUSDT
+2025-05-25 11:18:29,307 - indicators - WARNING - Not enough data for ETHUSDT 1h indicators
+2025-05-25 11:18:29,308 - __main__ - WARNING - Failed to calculate indicators for ETHUSDT
+2025-05-25 11:18:29,309 - indicators - WARNING - Not enough data for BNBUSDT 1h indicators
+2025-05-25 11:18:29,309 - __main__ - WARNING - Failed to calculate indicators for BNBUSDT
+2025-05-25 11:18:29,311 - indicators - WARNING - Not enough data for NEOUSDT 1h indicators
+2025-05-25 11:18:29,312 - __main__ - WARNING - Failed to calculate indicators for NEOUSDT
+2025-05-25 11:18:29,315 - indicators - WARNING - Not enough data for LTCUSDT 1h indicators
+2025-05-25 11:18:29,317 - __main__ - WARNING - Failed to calculate indicators for LTCUSDT
+2025-05-25 11:18:34,318 - __main__ - INFO - Processing symbols batch: ['QTUMUSDT', 'ADAUSDT', 'XRPUSDT', 'EOSUSDT', 'TUSDUSDT']
+2025-05-25 11:18:34,319 - indicators - WARNING - Not enough data for QTUMUSDT 1h indicators
+2025-05-25 11:18:34,319 - __main__ - WARNING - Failed to calculate indicators for QTUMUSDT
+2025-05-25 11:18:34,320 - indicators - WARNING - Not enough data for ADAUSDT 1h indicators
+2025-05-25 11:18:34,321 - __main__ - WARNING - Failed to calculate indicators for ADAUSDT
+2025-05-25 11:18:34,321 - indicators - WARNING - Not enough data for XRPUSDT 1h indicators
+2025-05-25 11:18:34,322 - __main__ - WARNING - Failed to calculate indicators for XRPUSDT
+2025-05-25 11:18:34,322 - indicators - WARNING - Not enough data for EOSUSDT 1h indicators
+2025-05-25 11:18:34,323 - __main__ - WARNING - Failed to calculate indicators for EOSUSDT
+2025-05-25 11:18:34,323 - indicators - WARNING - Not enough data for TUSDUSDT 1h indicators
+2025-05-25 11:18:34,324 - __main__ - WARNING - Failed to calculate indicators for TUSDUSDT
+2025-05-25 11:19:39,326 - __main__ - INFO - Processing symbols batch: ['BTCUSDT', 'ETHUSDT', 'BNBUSDT', 'NEOUSDT', 'LTCUSDT']
+2025-05-25 11:19:39,327 - indicators - WARNING - Not enough data for BTCUSDT 1h indicators
+2025-05-25 11:19:39,327 - __main__ - WARNING - Failed to calculate indicators for BTCUSDT
+2025-05-25 11:19:39,328 - indicators - WARNING - Not enough data for ETHUSDT 1h indicators
+2025-05-25 11:19:39,328 - __main__ - WARNING - Failed to calculate indicators for ETHUSDT
+2025-05-25 11:19:39,329 - indicators - WARNING - Not enough data for BNBUSDT 1h indicators
+2025-05-25 11:19:39,329 - __main__ - WARNING - Failed to calculate indicators for BNBUSDT
+2025-05-25 11:19:39,330 - indicators - WARNING - Not enough data for NEOUSDT 1h indicators
+2025-05-25 11:19:39,330 - __main__ - WARNING - Failed to calculate indicators for NEOUSDT
+2025-05-25 11:19:39,330 - indicators - WARNING - Not enough data for LTCUSDT 1h indicators
+2025-05-25 11:19:39,331 - __main__ - WARNING - Failed to calculate indicators for LTCUSDT
+2025-05-25 11:19:44,331 - __main__ - INFO - Processing symbols batch: ['QTUMUSDT', 'ADAUSDT', 'XRPUSDT', 'EOSUSDT', 'TUSDUSDT']
+2025-05-25 11:19:44,332 - indicators - WARNING - Not enough data for QTUMUSDT 1h indicators
+2025-05-25 11:19:44,332 - __main__ - WARNING - Failed to calculate indicators for QTUMUSDT
+2025-05-25 11:19:44,333 - indicators - WARNING - Not enough data for ADAUSDT 1h indicators
+2025-05-25 11:19:44,333 - __main__ - WARNING - Failed to calculate indicators for ADAUSDT
+2025-05-25 11:19:44,334 - indicators - WARNING - Not enough data for XRPUSDT 1h indicators
+2025-05-25 11:19:44,334 - __main__ - WARNING - Failed to calculate indicators for XRPUSDT
+2025-05-25 11:19:44,335 - indicators - WARNING - Not enough data for EOSUSDT 1h indicators
+2025-05-25 11:19:44,335 - __main__ - WARNING - Failed to calculate indicators for EOSUSDT
+2025-05-25 11:19:44,336 - indicators - WARNING - Not enough data for TUSDUSDT 1h indicators
+2025-05-25 11:19:44,336 - __main__ - WARNING - Failed to calculate indicators for TUSDUSDT
+2025-05-25 11:20:49,338 - __main__ - INFO - Processing symbols batch: ['BTCUSDT', 'ETHUSDT', 'BNBUSDT', 'NEOUSDT', 'LTCUSDT']
+2025-05-25 11:20:49,339 - indicators - WARNING - Not enough data for BTCUSDT 1h indicators
+2025-05-25 11:20:49,340 - __main__ - WARNING - Failed to calculate indicators for BTCUSDT
+2025-05-25 11:20:49,341 - indicators - WARNING - Not enough data for ETHUSDT 1h indicators
+2025-05-25 11:20:49,342 - __main__ - WARNING - Failed to calculate indicators for ETHUSDT
+2025-05-25 11:20:49,343 - indicators - WARNING - Not enough data for BNBUSDT 1h indicators
+2025-05-25 11:20:49,344 - __main__ - WARNING - Failed to calculate indicators for BNBUSDT
+2025-05-25 11:20:49,345 - indicators - WARNING - Not enough data for NEOUSDT 1h indicators
+2025-05-25 11:20:49,345 - __main__ - WARNING - Failed to calculate indicators for NEOUSDT
+2025-05-25 11:20:49,346 - indicators - WARNING - Not enough data for LTCUSDT 1h indicators
+2025-05-25 11:20:49,347 - __main__ - WARNING - Failed to calculate indicators for LTCUSDT
+2025-05-25 11:20:54,348 - __main__ - INFO - Processing symbols batch: ['QTUMUSDT', 'ADAUSDT', 'XRPUSDT', 'EOSUSDT', 'TUSDUSDT']
+2025-05-25 11:20:54,349 - indicators - WARNING - Not enough data for QTUMUSDT 1h indicators
+2025-05-25 11:20:54,349 - __main__ - WARNING - Failed to calculate indicators for QTUMUSDT
+2025-05-25 11:20:54,349 - indicators - WARNING - Not enough data for ADAUSDT 1h indicators
+2025-05-25 11:20:54,350 - __main__ - WARNING - Failed to calculate indicators for ADAUSDT
+2025-05-25 11:20:54,350 - indicators - WARNING - Not enough data for XRPUSDT 1h indicators
+2025-05-25 11:20:54,351 - __main__ - WARNING - Failed to calculate indicators for XRPUSDT
+2025-05-25 11:20:54,351 - indicators - WARNING - Not enough data for EOSUSDT 1h indicators
+2025-05-25 11:20:54,351 - __main__ - WARNING - Failed to calculate indicators for EOSUSDT
+2025-05-25 11:20:54,352 - indicators - WARNING - Not enough data for TUSDUSDT 1h indicators
+2025-05-25 11:20:54,352 - __main__ - WARNING - Failed to calculate indicators for TUSDUSDT
+2025-05-25 11:21:00,706 - __main__ - INFO - Telegram bot status: Not running
+2025-05-25 11:21:00,707 - __main__ - INFO - WebSocket client status: Running
+2025-05-25 11:21:00,708 - __main__ - INFO - Signals in queue: 0
+2025-05-25 14:40:27,452 - __main__ - INFO - Processing symbols batch: ['QTUMUSDT', 'ADAUSDT', 'XRPUSDT', 'EOSUSDT', 'TUSDUSDT']
+2025-05-25 14:40:27,453 - indicators - WARNING - Not enough data for QTUMUSDT 1h indicators
+2025-05-25 14:40:27,453 - __main__ - WARNING - Failed to calculate indicators for QTUMUSDT
+2025-05-25 14:40:27,454 - indicators - WARNING - Not enough data for ADAUSDT 1h indicators
+2025-05-25 14:40:27,455 - __main__ - WARNING - Failed to calculate indicators for ADAUSDT
+2025-05-25 14:40:27,456 - indicators - WARNING - Not enough data for XRPUSDT 1h indicators
+2025-05-25 14:40:27,456 - __main__ - WARNING - Failed to calculate indicators for XRPUSDT
+2025-05-25 14:40:27,458 - indicators - WARNING - Not enough data for EOSUSDT 1h indicators
+2025-05-25 14:40:27,458 - __main__ - WARNING - Failed to calculate indicators for EOSUSDT
+2025-05-25 14:40:27,459 - indicators - WARNING - Not enough data for TUSDUSDT 1h indicators
+2025-05-25 14:40:27,459 - __main__ - WARNING - Failed to calculate indicators for TUSDUSDT
