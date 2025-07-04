@@ -388,9 +388,9 @@ class TradingBot:
 
 if __name__ == "__main__":
     # Set your Telegram bot token and allowed user IDs here
-    TELEGRAM_TOKEN = "7633147170:AAGTGmkeVSnCdBnO8d5Pzxx7v7WzNBfhSNI"  # Your valid token
+    TELEGRAM_TOKEN = "Your valid token"  # Your valid token
 
-    ALLOWED_USERS = [5829074137]  # Your user ID
+    ALLOWED_USERS = [Your user ID]  # Your user ID
 
     logger.info(f"Allowed Telegram users: {ALLOWED_USERS}")
 
